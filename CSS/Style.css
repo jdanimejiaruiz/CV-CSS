@@ -1,0 +1,56 @@
+/* ------------------------------- */
+/*         GLOBAL ELEMENTS         */
+/* ------------------------------- */
+.body{
+  margin: 0px;
+  text-align: center;
+}
+/* ------------------------------- */
+/* TOP CONTAINER AND HIS ELEMENTS  */
+/* ------------------------------- */
+
+.Top_Container{
+  background-color: #E5D9B6;
+  height: 960px;
+  width: 1900px;
+  position: absolute;
+}
+.Cloud1{
+  height: 200px;
+  margin: 0;
+  position: absolute;
+  right: 400px;
+}
+.Nombre{
+  color: #5F8D4E;
+  font-size: 9rem;
+  margin: 100px auto 0 auto;
+  border-top: 100px;
+  border-bottom: 0;
+  font-family: 'Dawning of a New Day', cursive;
+}
+.Nombre_Chino{
+  color: #5F8D4E;
+  font-size: 4rem;
+  margin: 0px auto 0 auto;
+  font-family: 'Noto Serif TC', serif;
+}
+.Cloud2{
+  height: 200px;
+  margin: 0;
+  position: absolute;
+  left: 500px;
+  top: 300px;
+}
+.Mountain{
+  height: 700px;
+}
+
+
+/* ------------------------------- */
+/* LOW CONTAINER AND HIS ELEMENTS  */
+/* ------------------------------- */
+
+.Low_Container{
+  background-color: #285430;
+}
